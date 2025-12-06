@@ -1,4 +1,4 @@
-# 🚗 RideShare Backend
+#  RideShare Backend
 
 RideShare is a simple Spring Boot backend that simulates a basic ride-booking system.  
 Users can request rides, drivers can accept them, and both can complete the ride.  
